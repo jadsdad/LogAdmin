@@ -4,7 +4,7 @@ import sys
 import MySQLdb as MariaDB
 from PyQt5 import QtWidgets
 
-from QuickAdmin.quick_admin_ui import Ui_QuickAdmin
+from dbadmin_ui import Ui_QuickAdmin
 
 
 class QuickAdminForm(Ui_QuickAdmin):
